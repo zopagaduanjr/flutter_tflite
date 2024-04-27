@@ -45,6 +45,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Tflite wants to access your photos to test on tflite models</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Tflite wants to access your camera to test on tflite models</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Tflite wants to access your microphone to test videos on tflite models</string>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 </dict>
